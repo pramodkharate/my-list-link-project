@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    <div align="center">
+    <h3> college student sign up page </h3> <hr>
+    <table cellpadding="10" border="1" width="50%">
+        <tr>
+            <td>student  Name </td>
+            <td> <input type="text" name="name" placeholder="Enter your name"> </td>
+        </tr>
+        <tr>
+            <td> student Email </td>
+            <td> <input type="email" name="email" placeholder="Enter your email"> </td>
+        </tr>
+        <tr>
+            <td> student Password </td>
+            <td> <input type="password" name="password" placeholder="Enter your password"> </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"> 
+                <input type="submit" value="Sign Up">
+             </td>
+        </tr>
+
+         
+    
+ </body>
+ </html>
